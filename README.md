@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TailspinProductions/Space%20Game%20-%20Web%20-%20Pipeline/_apis/build/status%2Fgodservant.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/TailspinProductions/Space%20Game%20-%20Web%20-%20Pipeline/_build/latest?definitionId=1&branchName=build-pipeline)
 
 # Contributing
 
